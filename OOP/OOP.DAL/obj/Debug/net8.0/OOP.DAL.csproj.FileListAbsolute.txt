@@ -1,0 +1,17 @@
+C:\Users\HLEB DRAKIN\OneDrive\Рабочий стол\Course_work\OOP\OOP.DAL\obj\Debug\net8.0\OOP.DAL.csproj.AssemblyReference.cache
+C:\Users\HLEB DRAKIN\OneDrive\Рабочий стол\Course_work\OOP\OOP.DAL\obj\Debug\net8.0\OOP.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HLEB DRAKIN\OneDrive\Рабочий стол\Course_work\OOP\OOP.DAL\obj\Debug\net8.0\OOP.DAL.AssemblyInfoInputs.cache
+C:\Users\HLEB DRAKIN\OneDrive\Рабочий стол\Course_work\OOP\OOP.DAL\obj\Debug\net8.0\OOP.DAL.AssemblyInfo.cs
+C:\Users\HLEB DRAKIN\OneDrive\Рабочий стол\Course_work\OOP\OOP.DAL\obj\Debug\net8.0\OOP.DAL.csproj.CoreCompileInputs.cache
+C:\Users\HLEB DRAKIN\OneDrive\Рабочий стол\Course_work\OOP\OOP.DAL\bin\Debug\net8.0\OOP.DAL.deps.json
+C:\Users\HLEB DRAKIN\OneDrive\Рабочий стол\Course_work\OOP\OOP.DAL\bin\Debug\net8.0\OOP.DAL.runtimeconfig.json
+C:\Users\HLEB DRAKIN\OneDrive\Рабочий стол\Course_work\OOP\OOP.DAL\bin\Debug\net8.0\OOP.DAL.dll
+C:\Users\HLEB DRAKIN\OneDrive\Рабочий стол\Course_work\OOP\OOP.DAL\bin\Debug\net8.0\OOP.DAL.pdb
+C:\Users\HLEB DRAKIN\OneDrive\Рабочий стол\Course_work\OOP\OOP.DAL\bin\Debug\net8.0\OOP.Domain.dll
+C:\Users\HLEB DRAKIN\OneDrive\Рабочий стол\Course_work\OOP\OOP.DAL\bin\Debug\net8.0\OOP.Domain.pdb
+C:\Users\HLEB DRAKIN\OneDrive\Рабочий стол\Course_work\OOP\OOP.DAL\obj\Debug\net8.0\OOP.DAL.csproj.CopyComplete
+C:\Users\HLEB DRAKIN\OneDrive\Рабочий стол\Course_work\OOP\OOP.DAL\obj\Debug\net8.0\OOP.DAL.dll
+C:\Users\HLEB DRAKIN\OneDrive\Рабочий стол\Course_work\OOP\OOP.DAL\obj\Debug\net8.0\refint\OOP.DAL.dll
+C:\Users\HLEB DRAKIN\OneDrive\Рабочий стол\Course_work\OOP\OOP.DAL\obj\Debug\net8.0\OOP.DAL.pdb
+C:\Users\HLEB DRAKIN\OneDrive\Рабочий стол\Course_work\OOP\OOP.DAL\obj\Debug\net8.0\OOP.DAL.genruntimeconfig.cache
+C:\Users\HLEB DRAKIN\OneDrive\Рабочий стол\Course_work\OOP\OOP.DAL\obj\Debug\net8.0\ref\OOP.DAL.dll

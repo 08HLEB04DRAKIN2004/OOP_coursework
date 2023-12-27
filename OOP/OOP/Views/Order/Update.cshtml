@@ -1,0 +1,12 @@
+﻿@model OOP.Domain.ViewModel.Orders.OrdersViewModel
+
+<h2>Update Order</h2>
+
+<form asp-action="Update" method="post">
+    <div class="form-group">
+        <label asp-for="Order_id">Order ID:</label>
+        <input asp-for="Order_id" class="form-control" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Get Order</button>
+</form>

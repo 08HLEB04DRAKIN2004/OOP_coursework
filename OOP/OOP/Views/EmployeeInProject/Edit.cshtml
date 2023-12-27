@@ -1,0 +1,28 @@
+﻿@model OOP.Domain.ViewModel.EmployeesInProject.EmployeeInProjectViewModel
+
+<h2>Edit Employee in Project</h2>
+
+<form asp-action="Edit" method="post">
+    <div class="form-group">
+        <label asp-for="assignment_id">Assignment ID:</label>
+        <input asp-for="assignment_id" class="form-control" readonly />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="project_id">Project ID:</label>
+        <input asp-for="project_id" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="employee_id">Employee ID:</label>
+        <input asp-for="employee_id" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="role_id">Role ID:</label>
+        <input asp-for="role_id" class="form-control" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Save Changes</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>

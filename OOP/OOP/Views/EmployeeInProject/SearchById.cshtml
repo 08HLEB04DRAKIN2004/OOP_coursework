@@ -1,0 +1,12 @@
+﻿@model OOP.Domain.ViewModel.EmployeesInProject.EmployeeInProjectViewModel
+
+<h2>Search Employee in Project by Assignment ID</h2>
+
+<form asp-action="SearchById" method="post">
+    <div class="form-group">
+        <label asp-for="assignment_id">Assignment ID:</label>
+        <input asp-for="assignment_id" class="form-control" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Search</button>
+</form>

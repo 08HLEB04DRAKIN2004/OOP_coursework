@@ -1,0 +1,11 @@
+﻿@model ClientViewModel
+<h2>Search Client by ID</h2>
+
+<form asp-action="SearchById" method="post">
+    <div class="form-group">
+        <label asp-for="ClientId">Client ID:</label>
+        <input asp-for="ClientId" class="form-control" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Search</button>
+</form>

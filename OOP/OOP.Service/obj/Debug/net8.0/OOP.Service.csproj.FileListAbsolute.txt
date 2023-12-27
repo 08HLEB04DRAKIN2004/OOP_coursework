@@ -1,0 +1,17 @@
+C:\Users\HLEB DRAKIN\OneDrive\Рабочий стол\Course_work\OOP\OOP.Service\bin\Debug\net8.0\OOP.Service.deps.json
+C:\Users\HLEB DRAKIN\OneDrive\Рабочий стол\Course_work\OOP\OOP.Service\bin\Debug\net8.0\OOP.Service.dll
+C:\Users\HLEB DRAKIN\OneDrive\Рабочий стол\Course_work\OOP\OOP.Service\bin\Debug\net8.0\OOP.Service.pdb
+C:\Users\HLEB DRAKIN\OneDrive\Рабочий стол\Course_work\OOP\OOP.Service\bin\Debug\net8.0\OOP.DAL.dll
+C:\Users\HLEB DRAKIN\OneDrive\Рабочий стол\Course_work\OOP\OOP.Service\bin\Debug\net8.0\OOP.Domain.dll
+C:\Users\HLEB DRAKIN\OneDrive\Рабочий стол\Course_work\OOP\OOP.Service\bin\Debug\net8.0\OOP.DAL.pdb
+C:\Users\HLEB DRAKIN\OneDrive\Рабочий стол\Course_work\OOP\OOP.Service\bin\Debug\net8.0\OOP.Domain.pdb
+C:\Users\HLEB DRAKIN\OneDrive\Рабочий стол\Course_work\OOP\OOP.Service\obj\Debug\net8.0\OOP.Service.csproj.AssemblyReference.cache
+C:\Users\HLEB DRAKIN\OneDrive\Рабочий стол\Course_work\OOP\OOP.Service\obj\Debug\net8.0\OOP.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HLEB DRAKIN\OneDrive\Рабочий стол\Course_work\OOP\OOP.Service\obj\Debug\net8.0\OOP.Service.AssemblyInfoInputs.cache
+C:\Users\HLEB DRAKIN\OneDrive\Рабочий стол\Course_work\OOP\OOP.Service\obj\Debug\net8.0\OOP.Service.AssemblyInfo.cs
+C:\Users\HLEB DRAKIN\OneDrive\Рабочий стол\Course_work\OOP\OOP.Service\obj\Debug\net8.0\OOP.Service.csproj.CoreCompileInputs.cache
+C:\Users\HLEB DRAKIN\OneDrive\Рабочий стол\Course_work\OOP\OOP.Service\obj\Debug\net8.0\OOP.Service.csproj.CopyComplete
+C:\Users\HLEB DRAKIN\OneDrive\Рабочий стол\Course_work\OOP\OOP.Service\obj\Debug\net8.0\OOP.Service.dll
+C:\Users\HLEB DRAKIN\OneDrive\Рабочий стол\Course_work\OOP\OOP.Service\obj\Debug\net8.0\refint\OOP.Service.dll
+C:\Users\HLEB DRAKIN\OneDrive\Рабочий стол\Course_work\OOP\OOP.Service\obj\Debug\net8.0\OOP.Service.pdb
+C:\Users\HLEB DRAKIN\OneDrive\Рабочий стол\Course_work\OOP\OOP.Service\obj\Debug\net8.0\ref\OOP.Service.dll

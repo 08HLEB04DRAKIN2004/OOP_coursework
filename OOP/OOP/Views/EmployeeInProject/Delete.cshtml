@@ -1,0 +1,13 @@
+﻿@model OOP.Domain.ViewModel.EmployeesInProject.EmployeeInProjectViewModel
+
+<h2>Delete Employee in Project</h2>
+
+<form asp-action="DeleteConfirmed" method="post">
+    <div class="form-group">
+        <label asp-for="assignment_id">Assignment ID:</label>
+        <input asp-for="assignment_id" class="form-control" readonly />
+    </div>
+
+    <button type="submit" class="btn btn-danger">Delete</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>

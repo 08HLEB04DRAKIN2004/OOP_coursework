@@ -1,0 +1,33 @@
+﻿
+@{
+    ViewData["Title"] = "Главная";
+}
+
+<!-- _Navigation.cshtml -->
+
+<div>
+    <h3>Navigation Links</h3>
+    <ul>
+        
+        <li><a asp-action="GetAllClients" asp-controller="Client">All Clients</a></li>
+        <li><a asp-action="SearchById" asp-controller="Client">Search Client</a></li>
+        <li><a asp-action="Create" asp-controller="Client">Create Client</a></li>
+        <li><a asp-action="Delete" asp-controller="Client">Search Client</a></li>
+        <li><a asp-action="Update" asp-controller="Client">Update Client</a></li>
+
+        <li><a asp-action="GetAll" asp-controller="EmployeeInProject">All EmployeeInProjects</a></li>
+        <li><a asp-action="Create" asp-controller="EmployeeInProject">Create EmployeeInProject</a></li>
+        <li><a asp-action="Delete" asp-controller="EmployeeInProject">Search EmployeeInProject</a></li>
+        <li><a asp-action="Update" asp-controller="EmployeeInProject">Update EmployeeInProject</a></li>
+        <li><a asp-action="SearchById" asp-controller="EmployeeInProject">Search EmployeeInProject</a></li>
+
+        <li><a asp-action="GetAllOrders" asp-controller="Order">All EmployeeInProjects</a></li>
+        <li><a asp-action="Create" asp-controller="Order">Create EmployeeInProject</a></li>
+        <li><a asp-action="Delete" asp-controller="Order">Search EmployeeInProject</a></li>
+        <li><a asp-action="Update" asp-controller="Order">Update EmployeeInProject</a></li>
+        <li><a asp-action="SearchById" asp-controller="Order">Search EmployeeInProject</a></li>
+
+       
+    </ul>
+</div>
+

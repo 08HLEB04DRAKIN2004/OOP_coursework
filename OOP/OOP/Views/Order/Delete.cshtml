@@ -1,0 +1,33 @@
+﻿@model OOP.Domain.ViewModel.Orders.OrdersViewModel
+
+<h2>Delete Order</h2>
+
+<form asp-action="DeleteConfirmed" method="post">
+    <div class="form-group">
+        <label asp-for="Order_id">Order ID:</label>
+        <input asp-for="Order_id" class="form-control" readonly />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Description">Description:</label>
+        <input asp-for="Description" class="form-control" readonly />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Date">Order Date:</label>
+        <input asp-for="Date" type="date" class="form-control" readonly />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Amount">Order Amount:</label>
+        <input asp-for="Amount" type="number" step="0.01" class="form-control" readonly />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Client_id">User ID:</label>
+        <input asp-for="Client_id" class="form-control" readonly />
+    </div>
+
+    <button type="submit" class="btn btn-danger">Delete</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>

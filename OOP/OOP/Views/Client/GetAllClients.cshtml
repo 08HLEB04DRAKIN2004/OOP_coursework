@@ -1,0 +1,30 @@
+﻿@model List<ClientViewModel>
+
+@if (Model != null && Model.Any())
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Contact Information</th>
+                <th>Contract</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var client in Model)
+            {
+                <tr>
+                    <td>@client.ClientId</td>
+                    <td>@client.Name</td>
+                    <td>@client.ContactInformation</td>
+                    <td>@client.Contract</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No clients available.</p>
+}
